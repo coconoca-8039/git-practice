@@ -11,3 +11,4 @@ Github上で更新してコンフリクトを起こす
 自分のリポジトリで更新
 test
 rebase
+main branch rebase conflict
