@@ -14,3 +14,4 @@ rebase
 main branch rebase conflict
 main pull rebase
 stash conflict
+untrack stash
