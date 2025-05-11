@@ -13,3 +13,4 @@ test
 rebase
 main branch rebase conflict
 main pull rebase
+stash conflict
