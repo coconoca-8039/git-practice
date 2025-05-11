@@ -7,3 +7,4 @@ zzzzzz
 aaaaaaaaaaaaaaaa
 lets conflict
 Github上で更新
+conflict-remoteで更新
