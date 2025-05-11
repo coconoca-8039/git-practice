@@ -12,3 +12,4 @@ Github上で更新してコンフリクトを起こす
 test
 rebase
 main branch rebase conflict
+main pull rebase
